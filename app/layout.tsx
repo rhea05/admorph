@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "AdMorph - Transform Your Ads with AI",
-  description: "AdMorph uses cutting-edge AI to create stunning ads from your product descriptions.",
+  description: "AdMorph uses cutting-edge AI to create ads from your product descriptions!",
 }
 
 export default function RootLayout({
